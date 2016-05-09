@@ -1,20 +1,11 @@
 <div id="menu">
-<--!	<ul>
-		<li><h4>Contents</h4></li>
-		<li><a href="#introduction">Introduction</a></li>
-		<li><a href="#purpose">Purpose</a></li>
-		<li><a href="#hello">Hello World</a></li>
-		<li><a href="#syntax">Syntax</a></li>
-		<li><a href="#compile">How To Compile</a></li>
-		<li><a href="#examples">Examples</a></li>
-	</ul> -->
-	<h4>Contents</h4></li>
-	<a href="#introduction">Introduction</a>
-	<a href="#purpose">Purpose</a>
-	<a href="#hello">Hello World</a>
-	<a href="#syntax">Syntax</a>
-	<a href="#compile">How To Compile</a>
-	<a href="#examples">Examples</a>
+	<h4>Contents</h4></li><br>
+	<a href="#introduction">Introduction</a><br>
+	<a href="#purpose">Purpose</a><br>
+	<a href="#hello">Hello World</a><br>
+	<a href="#syntax">Syntax</a><br>
+	<a href="#compile">How To Compile</a><br>
+	<a href="#examples">Examples</a><br>
 	<hr>
 	<table cellpadding: 5>
 		<tr><td>Kik</td><td><a href="http://kik.me/Archlinux.">Archlinux.</a></td></tr>
