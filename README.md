@@ -1,5 +1,5 @@
 <div id="menu">
-	<ul>
+<--!	<ul>
 		<li><h4>Contents</h4></li>
 		<li><a href="#introduction">Introduction</a></li>
 		<li><a href="#purpose">Purpose</a></li>
@@ -7,7 +7,14 @@
 		<li><a href="#syntax">Syntax</a></li>
 		<li><a href="#compile">How To Compile</a></li>
 		<li><a href="#examples">Examples</a></li>
-	</ul>
+	</ul> -->
+	<h4>Contents</h4></li>
+	<a href="#introduction">Introduction</a>
+	<a href="#purpose">Purpose</a>
+	<a href="#hello">Hello World</a>
+	<a href="#syntax">Syntax</a>
+	<a href="#compile">How To Compile</a>
+	<a href="#examples">Examples</a>
 	<hr>
 	<table cellpadding: 5>
 		<tr><td>Kik</td><td><a href="http://kik.me/Archlinux.">Archlinux.</a></td></tr>
